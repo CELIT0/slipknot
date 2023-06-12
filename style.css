@@ -30,7 +30,7 @@ body {
 }
 
 .escola{
-    background-image: linear-gradient(#424E61,#16CFF8); /* gera uma imagem com gradinte que começa na cor #EEEEEE e termina em #16CFF8 */
+    background-image: linear-gradient(#424E61,#EEEEEE); /* gera uma imagem com gradinte que começa na cor #EEEEEE e termina em #16CFF8 */
     color:white;  /* cor da fonte (letra) */
     display: flex;
     justify-content: center;
