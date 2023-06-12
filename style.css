@@ -7,7 +7,7 @@ body {
     font-family: 'Poppins', sans-serif; /* tipo de fonte (letra) */
 }
 .cabecalho {
-    background-color: #424E61; /* cor de fundo do cabecalho */
+    background-color: #eeeeee; /* cor de fundo do cabecalho */
     color: white; /* cor da letra do cabecalho */
     display: flex; /* criar elementos flexiveis que se adaptam aqualquer tipo de tela */
     justify-content: space-around;  /* justificar o conteúdo */
