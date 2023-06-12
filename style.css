@@ -7,7 +7,7 @@ body {
     font-family: 'Poppins', sans-serif; /* tipo de fonte (letra) */
 }
 .cabecalho {
-    background-color: #111111; /* cor de fundo do cabecalho */
+    background-color: v; /* cor de fundo do cabecalho */
     color: white; /* cor da letra do cabecalho */
     display: flex; /* criar elementos flexiveis que se adaptam aqualquer tipo de tela */
     justify-content: space-around;  /* justificar o conteúdo */
@@ -85,7 +85,7 @@ body {
 
 .rodape{
     background-color: black;
-    text-align: center;
+ black   text-align: center;
 }
 
 .rodape-imagem{
